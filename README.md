@@ -1,6 +1,26 @@
 # ItemList
+A Simple ItemList One-Page App built with Angular 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/angular.png" width="300px" height="auto" />
+</p>
+
+
+## Clone/Download
+
+`git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
+
+## Workflow
+
+## Snapshots
+![alt text](https://github.com/Jyotsna-Singh/Angular4-Item-List-App/blob/master/src/assets/demo.gif "Home")   
+
+
+## License
+MIT License
 
 ## Development server
 
