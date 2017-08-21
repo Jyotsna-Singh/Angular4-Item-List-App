@@ -13,8 +13,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
 
-## Workflow
-
 ## Snapshots
 ![alt text](https://github.com/Jyotsna-Singh/Angular4-Item-List-App/blob/master/src/assets/demo.gif "Home")   
 
