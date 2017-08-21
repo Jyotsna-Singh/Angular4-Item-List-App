@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/angular.png" width="300px" height="auto" />
+  <img src="https://github.com/Jyotsna-Singh/Angular4-Item-List-App/blob/master/src/assets/demo.gif" />
 </p>
 
 
@@ -14,11 +14,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 `git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
 
 ## Snapshots
-![alt text](https://github.com/Jyotsna-Singh/Angular4-Item-List-App/blob/master/src/assets/demo.gif "Home")   
+![alt text]( "Home")   
 
 
 ## License
 MIT License
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/angular.png" width="300px" height="auto" />
+</p>
 
 ## Development server
 
