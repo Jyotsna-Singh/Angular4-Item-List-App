@@ -3,13 +3,14 @@ A Simple ItemList One-Page App built with Angular 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
+## Live/Deployed on heroku
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://ng-item-list.herokuapp.com/)
+
 <p align="center">
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Angular4-Item-List-App/blob/master/src/assets/demo.gif" />
 </p>
 
-## Live/Deployed on heroku
-[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://ng-item-list.herokuapp.com/)
 
 ## Clone/Download
 
