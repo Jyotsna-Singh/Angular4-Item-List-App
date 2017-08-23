@@ -13,10 +13,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
 
-## Snapshots
-![alt text]( "Home")   
-
-
 ## License
 MIT License
 
